@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# vim
+alias v="vim"
+alias nv="nvim"
+
+# K8s
+alias k="kubectl"
